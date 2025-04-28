@@ -37,9 +37,9 @@ export default function Home() {
           Using a straightforward web interface, users can upload a CSV file
           containing their addresses, input their own Google Maps API key, and
           instantly receive a processed file with accurate latitude and
-          longitude values for each location. There's no need for specialized
-          knowledge or large investments — just a Google Maps API key and a CSV
-          file are enough.
+          longitude values for each location. There&apos;s no need for
+          specialized knowledge or large investments — just a Google Maps API
+          key and a CSV file are enough.
         </p>
 
         <p>
